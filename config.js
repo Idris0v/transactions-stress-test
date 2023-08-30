@@ -1,5 +1,5 @@
 const blockchainConfig = {
-    contractAddress: '0x1C0DE236B832038Bb1856E82Ec70C3bB597e31d6',
+    contractAddress: '0x42b3CA3Cd757de57Fab384b8E1D556451d937264',
     blockchainUrl: 'https://mumbai.polygon.superprotocol.com/hesoyam',
 };
 
